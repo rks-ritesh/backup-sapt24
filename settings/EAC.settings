@@ -4,5 +4,6 @@
     <enableInsightsInTimeline>true</enableInsightsInTimeline>
     <enableInsightsInTimelineEacStd>false</enableInsightsInTimelineEacStd>
     <relationshipGraphPref>true</relationshipGraphPref>
+    <s2XSvcAccEmail>false</s2XSvcAccEmail>
     <syncInternalEvents>true</syncInternalEvents>
 </EACSettings>
